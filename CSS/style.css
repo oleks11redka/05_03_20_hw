@@ -44,23 +44,7 @@ body {
     margin: 20px 0;
 }
 
-.car1 {
-    border: dashed 3px black;
-}
-
-.car2 {
-    border: dashed 3px black;
-}
-
-.car3 {
-    border: dashed 3px black;
-}
-
-.car4 {
-    border: dashed 3px black;
-}
-
-.car5 {
+.car {
     border: dashed 3px black;
 }
 
