@@ -1,0 +1,81 @@
+body {
+    font-family: Caladea, serif;
+    color: #000;
+    
+}
+
+.container {
+    font-size: 18px;
+    width: 100%;
+    max-width: 712px;
+    padding: 0 6px;
+    margin: 80px auto 0;
+}
+
+.header {
+    font-size: 26px;
+    text-align: center;
+    color: white;
+    background-color: brown;
+    padding: 2px;
+    margin: 10px 0 20px;
+}
+
+.footer {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 2px;
+    margin: 10px 0 30px;
+}
+
+/*.copyright {
+    font-size: xx-large;
+    line-height: 10px;
+}*/
+
+.sunset {
+    max-width: 712px;
+}
+
+.carPictures {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.car1 {
+    border: dashed 3px black;
+}
+
+.car2 {
+    border: dashed 3px black;
+}
+
+.car3 {
+    border: dashed 3px black;
+}
+
+.car4 {
+    border: dashed 3px black;
+}
+
+.car5 {
+    border: dashed 3px black;
+}
+
+.text {
+    margin: 20px 0;
+}
+
+i {
+    font-style: italic;
+}
+
+b {
+    font-weight: bold;
+}
+
+.blue {
+    color: blue;
+}
